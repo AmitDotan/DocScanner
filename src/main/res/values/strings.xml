@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ImageScanner</string>
+    <string name="TakePicture">Take Picture</string>
+    <string name="tv_ImageName">Image Name</string>
+    <string name="Save">Save</string>
+    <string name="title">Image Scanner</string>
+    <string name="PicturesList">Pictures List</string>
+    <string name="Instructions">Instructions</string>
+    <string name="tv_Instructions">Instructions</string>
+    <string name="home">Home</string>
+</resources>
